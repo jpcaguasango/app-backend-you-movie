@@ -28,15 +28,17 @@
 
 ## Environment
 
+Create the .env file
+
 # Swagger
 
-SWAGGER_TITLE=
-SWAGGER_DESCRIPTION=
+- SWAGGER_TITLE=
+- SWAGGER_DESCRIPTION=
 
 # The movie db
 
-THE_MOVIE_BEARER_TOKEN=
-THE_MOVIE_BASE_URL_API=
+- THE_MOVIE_BEARER_TOKEN=
+- THE_MOVIE_BASE_URL_API=
 
 ## Installation
 
